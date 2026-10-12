@@ -1,17 +1,17 @@
 # M. Kanimozhi | Personal Portfolio
 
-Welcome to my personal portfolio! 👋
+Welcome to my personal portfolio! 
 
 I am a Computer Science student interested in Artificial Intelligence and Machine Learning. I enjoy learning new technologies, developing applications, and improving my programming skills.
 
-## 👩‍💻 About Me
+##  About Me
 
 - **Name:** M. Kanimozhi
 - **Field:** Computer Science
 - **Specialization:** Artificial Intelligence and Machine Learning
 - **Interests:** Programming, AI, application development, and technology
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - C Programming
 - Python Programming
@@ -21,7 +21,7 @@ I am a Computer Science student interested in Artificial Intelligence and Machin
 - JavaScript
 - MIT App Inventor
 
-## 🚀 Projects
+## Projects
 
 ### 1. Hospital Management System
 A C programming project designed to manage hospital-related information and basic administrative operations.
@@ -32,16 +32,16 @@ An application developed using MIT App Inventor that converts text into spoken a
 ### 3. AI Assistant
 An AI-powered assistant application developed using MIT App Inventor and the Gemini API to provide interactive responses.
 
-## 🏆 Achievements
+##  Achievements
 
 - Microsoft-related achievements and certifications.
 - Java learning through NPTEL.
 
-## 🎯 Career Objective
+##  Career Objective
 
 To enhance my technical knowledge, develop innovative software solutions, and build a successful career in computer science, artificial intelligence, and machine learning.
 
-## 📫 Contact
+##  Contact
 
 - **Email:** kanimozhichitra2007@gmail.com
 - **GitHub:** [kanimozhi2007-creator](https://github.com/kanimozhi2007-creator)
